@@ -1006,8 +1006,6 @@ textarea {
     padding: 2em 0;
     background: #000;
     text-align: center;
-    border-bottom: 1px dashed #fff;
-    border-top: 1px dashed #fff;
 }
 .copy-section p {
     font-size: 1em;
