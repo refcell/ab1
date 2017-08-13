@@ -277,6 +277,8 @@ span.glyphicon.glyphicon-search.edit {
     margin-top: 10px;
 }
 .agile-about-right-img img {
+    display: block;
+    margin: auto;
     width: 100%;
 }
 h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskills h3, .aitsresumewthree-tag h3, .wthreeskills h3{
