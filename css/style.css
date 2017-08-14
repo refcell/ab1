@@ -1182,9 +1182,9 @@ textarea {
 	.contact-left-agile p {
 		margin: 1em 0em 1em;
 	}
-	.contact-left-agile {
+	/*.contact-left-agile {
 		min-height: 450px;
-	}
+	}*/
 	textarea {
 		min-height: 120px;
 	}
