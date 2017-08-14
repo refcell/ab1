@@ -1156,9 +1156,9 @@ textarea {
 	.w3lsstatsaitsstats {
 		font-size: 30px;
 	}
-	/*.contact-left-agile {
+	.contact-left-agile {
 		padding-left: 3em;
-	}*/
+	}
 }
 @media(max-width: 1050px){
 
@@ -1182,9 +1182,9 @@ textarea {
 	.contact-left-agile p {
 		margin: 1em 0em 1em;
 	}
-	/*.contact-left-agile {
+	.contact-left-agile {
 		min-height: 450px;
-	}*/
+	}
 	textarea {
 		min-height: 120px;
 	}
