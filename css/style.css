@@ -1184,6 +1184,7 @@ textarea {
 	}
 	.contact-left-agile {
 		min-height: 450px;
+		padding-left: 2em;
 	}
 	textarea {
 		min-height: 120px;
@@ -1291,6 +1292,9 @@ textarea {
 	input[type="submit"] {
 		padding: 11px 0px;
 		width: 28%;
+	}
+	.contact-left-agile {
+		padding-left: 2em;
 	}
 }
 @media(max-width: 900px){
