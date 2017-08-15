@@ -33,7 +33,7 @@ input[type="button"],input[type="submit"] {
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-.gallery h3{
+.gallery h4{
 	text-align: center;
 	font-size: 2.7em;
 }
@@ -542,7 +542,7 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 		transition: all 1s;
 		-moz-transition: all 1s;
 		position: relative;
-		float: left;
+		float: left;portfolio
 		left: 100%;
 		padding: 4px 10px 7px 10px;
 		background-color:#07cb79;
@@ -815,6 +815,10 @@ li.aitsaitsresumewthreeli-1 {
 /*-- experience-ends-here --*/
 
 /*-- Portfolio-starts-here --*/ 
+.portfolio h4 {
+	text-align: center;
+	font-size: 2.7em;
+}
 .filtr-item {
    padding: 0 3px !important;
 }
