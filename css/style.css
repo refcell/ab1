@@ -42,6 +42,37 @@ input[type="button"],input[type="submit"] {
 	display: block;
 	margin: auto;
 }
+
+/*
+ * Social Media Header
+ */
+
+.connect {
+    position: absolute;
+    height: 25px;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+}
+ul.connect {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px; 
+}
+.connect li {
+    display:inline;
+    list-style:none;
+    float:left;
+    height: 25px;
+    width: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+.connect li div {
+    height: 25px;
+    width: 25px;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
