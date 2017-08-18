@@ -1507,6 +1507,16 @@ textarea {
 	}
 }
 @media(max-width: 667px){
+	.connect li div {
+		width: 15px;
+		height: 15px;
+	}
+	.connect li {
+  		height: 15px;
+  		width: 15px;
+  		padding: 5px;
+  		margin: 5px;
+	}
 	.logo-w3layouts h1 a {
 		font-size: 0.9em;
 	}
@@ -1615,6 +1625,16 @@ textarea {
 	}
 }
 @media(max-width: 600px){
+	.connect li div {
+		width: 10px;
+		height: 10px;
+	}
+	.connect li {
+  		height: 10px;
+  		width: 10px;
+  		padding: 3px;
+  		margin: 3px;
+	}
 	.logo-w3layouts h1 a {
 		letter-spacing: 1px;
 	}
