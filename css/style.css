@@ -1251,6 +1251,16 @@ textarea {
 	}
 }
 @media(max-width: 991px){
+	.connect li div {
+		width: 75%;
+		height: 75%;
+	}
+	.connect li {
+  		height: 20px;
+  		width: 20px;
+  		padding: 7px;
+  		margin: 7px;
+	}
 	.banner-info-w3l h2 {
 		font-size: 2em;
 	}
@@ -1508,8 +1518,8 @@ textarea {
 }
 @media(max-width: 667px){
 	.connect li div {
-		width: 15px;
-		height: 15px;
+		width: 50%;
+		height: 50%;
 	}
 	.connect li {
   		height: 15px;
@@ -1626,8 +1636,8 @@ textarea {
 }
 @media(max-width: 600px){
 	.connect li div {
-		width: 10px;
-		height: 10px;
+		width: 25%;
+		height: 25%;
 	}
 	.connect li {
   		height: 10px;
