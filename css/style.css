@@ -69,8 +69,8 @@ ul.connect {
     margin: 10px;
 }
 .connect li a {
-    width: 100%;
-    height: 100%;
+    width: 25px;
+    height: 25px;
 }
 .connect li div {
     height: 100%;
