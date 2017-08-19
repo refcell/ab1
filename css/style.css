@@ -1252,8 +1252,8 @@ textarea {
 }
 @media(max-width: 991px){
 	.connect li div {
-		width: 75%;
-		height: 75%;
+		width: 95%;
+		height: 95%;
 	}
 	.connect li {
   		height: 20px;
