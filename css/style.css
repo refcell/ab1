@@ -1257,6 +1257,7 @@ textarea {
 }
 @media(max-width: 991px){
 	.connect li div {
+		background-size: 75%;
 		width: 75%;
 		height: 75%;
 	}
@@ -1523,6 +1524,7 @@ textarea {
 }
 @media(max-width: 667px){
 	.connect li div {
+		background-size: 50%;
 		width: 50%;
 		height: 50%;
 	}
@@ -1641,8 +1643,9 @@ textarea {
 }
 @media(max-width: 600px){
 	.connect li div {
-		width: 25%;
-		height: 25%;
+		background-size: 35%;
+		width: 35%;
+		height: 35%;
 	}
 	.connect li {
   		height: 10px;
