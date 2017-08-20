@@ -74,6 +74,7 @@ ul.connect {
     height: 25px;
 }
 .connect li div {
+    background-size: 100%;
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
@@ -1257,10 +1258,9 @@ textarea {
 	}
 }
 @media(max-width: 991px){
-	.connect li div {
-		background-size: 75%;
-		width: 75%;
-		height: 75%;
+	.connect li a {
+		width: 22px;
+		height: 22px;
 	}
 	.connect li {
   		height: 20px;
@@ -1524,10 +1524,9 @@ textarea {
 	}
 }
 @media(max-width: 667px){
-	.connect li div {
-		background-size: 50%;
-		width: 50%;
-		height: 50%;
+	.connect li a {
+		width: 18px;
+		height: 18px;
 	}
 	.connect li {
   		height: 15px;
@@ -1643,10 +1642,9 @@ textarea {
 	}
 }
 @media(max-width: 600px){
-	.connect li div {
-		background-size: 35%;
-		width: 35%;
-		height: 35%;
+	.connect li a {
+		width: 14px;
+		height: 14px;
 	}
 	.connect li {
   		height: 10px;
