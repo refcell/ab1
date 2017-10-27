@@ -932,6 +932,9 @@ ul.simplefilter {
     height: 300px;
 }
 /*-- contact-starts-here --*/
+.contact{
+    padding-top: 2em;
+}
 .contact-left-agile {
     float: left;
     width: 50%;
