@@ -2,10 +2,10 @@
 Personal Website
 https://abigger87.github.io/AndreasBigger/
 
-# To Do:
+## To Do:
 
 
-Journal
+*Journal
 
   Include Research
 
