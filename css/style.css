@@ -724,18 +724,18 @@ h3.agileits-title{
 	color: #000;
 }
 
-#myList li{ 
+#myList li, #myList2 li, #myList3 li, #myList4 li, #myList5 li{ 
 	display: none;
 	list-style-type: none;
 	/*--w3layouts--*/
 	/*--agileits--*/
 }
 
-ul#myList {
+ul#myList, ul#myList2, ul#myList3, ul#myList4, ul#myList5 {
 	margin-bottom: 3em;
 }
 
-#loadMore {
+#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 	color: #000;
 	font-weight: 600;
 	cursor: pointer;
@@ -755,12 +755,12 @@ ul#myList {
 	letter-spacing: 0.5px;
 }
 
-#loadMore:hover {
+#loadMore:hover, #loadMore2:hover, #loadMore3:hover, #loadMore4:hover, #loadMore5:hover {
 	background-color: #07cb79;
 	color: #fff;
 }
 
-#showLess {
+#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 	color: #000;
 	font-weight: 600;
 	cursor: pointer;
@@ -782,7 +782,7 @@ ul#myList {
 	letter-spacing: 0.5px;
 }
 
-#showLess:hover {
+#showLess:hover, #showLess2:hover, #showLess3:hover, #showLess4:hover, #showLess5:hover {
 	background-color: #07cb79;
 	color: #fff;
 }
@@ -1326,10 +1326,10 @@ textarea {
 	.work-info p {
 		font-size: 0.9em;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 20%;
 	}
-	#showLess {
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width:20%;
 	}
 	.col-md-3.filtr-item {
@@ -1574,12 +1574,12 @@ textarea {
 	.work-right {
 		padding: 1em 0 0em 13px;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 21%;
 		font-size: 1em;
 		padding: 9px 0;
 	}
-	#showLess{
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width: 21%;
 		font-size: 1em;
 		padding: 9px 0;
@@ -1677,10 +1677,10 @@ textarea {
 	.w3agile-servs-img .mission {
 		font-size: 1.7em;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 23%;
 	}
-	#showLess{
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width: 23%;
 	}
 	.contact-left-agile p {
@@ -1867,11 +1867,11 @@ textarea {
 	.work-grid.work-right {
 		width: 100%;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 27%;
 		font-size: 0.9em;
 	}
-	#showLess{
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width: 27%;
 		font-size: 0.9em;
 	}
@@ -1956,10 +1956,10 @@ textarea {
 	.work-info .work-right2 h4 {
 		margin-left: 201px;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 33%;
 	}
-	#showLess{
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width: 33%;
 	}
 	h5.univ {
@@ -2098,11 +2098,11 @@ textarea {
 	h5.sch {
 		right: 24%;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 35%;
 		font-size: 0.85em;
 	}
-	#showLess{
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width: 35%;
 		font-size: 0.85em;
 	}
@@ -2225,11 +2225,11 @@ textarea {
 	.work-info h4:before {
 		top: 6px;
 	}
-	#loadMore {
+	#loadMore, #loadMore2, #loadMore3, #loadMore4, #loadMore5 {
 		width: 37%;
 		font-size: 0.83em;
 	}
-	#showLess{
+	#showLess, #showLess2, #showLess3, #showLess4, #showLess5 {
 		width: 37%;
 		font-size: 0.83em;
 	}
