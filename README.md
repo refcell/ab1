@@ -7,9 +7,9 @@ https://abigger87.github.io/AndreasBigger/
 
   * Journal
 
-   Include Research
+    Include Research
 
-   Include Stock Sandbox
+    Include Stock Sandbox
 
 ✓ Portfolio
 
