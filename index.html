@@ -732,7 +732,7 @@
 			<script src="js/bars.js"></script>
 		<!-- //Progressive-Bars-JavaScript -->
 
-		<!-- for-experience -->
+		<!-- for-exducation -->
 			<!-- Show-More-JavaScript -->
 			<script>
 				$(document).ready(function () {
@@ -750,7 +750,87 @@
 				});
 			</script>
 			<!-- //Show-More-JavaScript -->
-		<!-- //for-experience -->
+		<!-- //for-education -->
+	
+		<!-- for-work -->
+			<!-- Show-More-JavaScript -->
+			<script>
+				$(document).ready(function () {
+					size_li = $("#myList2 li").size();
+					x=1;
+					$('#myList2 li:lt('+x+')').show();
+					$('#loadMore2').click(function () {
+						x= (x+1 <= size_li) ? x+1 : size_li;
+						$('#myList2 li:lt('+x+')').show();
+					});
+					$('#showLess2').click(function () {
+						x=(x-1<0) ? 1 : x-1;
+						$('#myList2 li').not(':lt('+x+')').hide();
+					});
+				});
+			</script>
+			<!-- //Show-More-JavaScript -->
+		<!-- //for-work -->
+	
+		<!-- for-activities -->
+			<!-- Show-More-JavaScript -->
+			<script>
+				$(document).ready(function () {
+					size_li = $("#myList3 li").size();
+					x=1;
+					$('#myList3 li:lt('+x+')').show();
+					$('#loadMore3').click(function () {
+						x= (x+1 <= size_li) ? x+1 : size_li;
+						$('#myList3 li:lt('+x+')').show();
+					});
+					$('#showLess3').click(function () {
+						x=(x-1<0) ? 1 : x-1;
+						$('#myList3 li').not(':lt('+x+')').hide();
+					});
+				});
+			</script>
+			<!-- //Show-More-JavaScript -->
+		<!-- //for-activities -->
+	
+		<!-- for-languages -->
+			<!-- Show-More-JavaScript -->
+			<script>
+				$(document).ready(function () {
+					size_li = $("#myList4 li").size();
+					x=1;
+					$('#myList4 li:lt('+x+')').show();
+					$('#loadMore4').click(function () {
+						x= (x+1 <= size_li) ? x+1 : size_li;
+						$('#myList4 li:lt('+x+')').show();
+					});
+					$('#showLess4').click(function () {
+						x=(x-1<0) ? 1 : x-1;
+						$('#myList4 li').not(':lt('+x+')').hide();
+					});
+				});
+			</script>
+			<!-- //Show-More-JavaScript -->
+		<!-- //for-languages -->
+	
+		<!-- for-sports -->
+			<!-- Show-More-JavaScript -->
+			<script>
+				$(document).ready(function () {
+					size_li = $("#myList5 li").size();
+					x=1;
+					$('#myList5 li:lt('+x+')').show();
+					$('#loadMore5').click(function () {
+						x= (x+1 <= size_li) ? x+1 : size_li;
+						$('#myList5 li:lt('+x+')').show();
+					});
+					$('#showLess5').click(function () {
+						x=(x-1<0) ? 1 : x-1;
+						$('#myList5 li').not(':lt('+x+')').hide();
+					});
+				});
+			</script>
+			<!-- //Show-More-JavaScript -->
+		<!-- //for-sports -->
 	
 		<!-- start-smoth-scrolling -->
 			<script type="text/javascript" src="js/move-top.js"></script>
