@@ -5,7 +5,7 @@ https://abigger87.github.io/AndreasBigger/
 ## To Do:
 
 
-*Journal
+  *Journal
 
   Include Research
 
