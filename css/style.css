@@ -43,6 +43,23 @@ input[type="button"],input[type="submit"] {
 	margin: auto;
 }
 
+.BiggerExpeditions {
+    width: 100%;
+    height: 200px;
+    margin: 0px 0;
+    text-align: center;
+    border: 5px solid  #07cb79;
+    -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+    transition: all 0.3s;
+    background: black;
+}
+.BiggerExpeditions:hover {
+    border-color: #6e2585;
+}
+
 /*
  * Social Media Header
  */
