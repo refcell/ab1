@@ -44,10 +44,11 @@ input[type="button"],input[type="submit"] {
 }
 
 .BiggerExpeditions {
-    width: 100%;
-    height: 200px;
+    width: 150px;
+    height: 50px;
     margin: 0px 0;
     text-align: center;
+    padding-top: 20px;
     border: 5px solid  #07cb79;
     -webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
