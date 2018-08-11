@@ -44,6 +44,7 @@ input[type="button"],input[type="submit"] {
 }
 .BEContainer {
     text-align: center;
+    padding-top: 20px;
 }
 .BiggerExpeditions {
     width: 200px;
@@ -52,7 +53,6 @@ input[type="button"],input[type="submit"] {
     display: inline-block;
     align-items: center;
     text-align: center;
-    padding-top: 20px;
     border: 5px solid  #07cb79;
     -webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
