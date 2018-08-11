@@ -51,8 +51,6 @@ input[type="button"],input[type="submit"] {
     height: 50px;
     margin: 0px 0;
     display: inline-block;
-	/*align-items: center;*/
-    text-align: center;
     border: 5px solid  #07cb79;
     -webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -66,8 +64,7 @@ input[type="button"],input[type="submit"] {
 }
 .BiggerExpeditions h4 {
     color: white;
-    text-align: center;
-    vertical-align: middle;
+    padding-top: 16px;
 }
 
 /*
