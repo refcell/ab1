@@ -1402,6 +1402,13 @@ textarea {
 	.banner-info-w3l h3 {
 		margin: 1.4em 0;
 	}
+	.BiggerExpeditions {
+		width: 160px;
+		height: 40px;
+	}
+	.BiggerExpeditions h4{
+		font-size: 1.1em;
+	}
 	.banner-agile {
 		    min-height: 429px;
 	}
