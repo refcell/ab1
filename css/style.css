@@ -42,30 +42,6 @@ input[type="button"],input[type="submit"] {
 	display: block;
 	margin: auto;
 }
-.BEContainer {
-    text-align: center;
-    padding-top: 20px;
-}
-.BiggerExpeditions {
-    width: 200px;
-    height: 50px;
-    margin: 0px 0;
-    display: inline-block;
-    border: 5px solid  #07cb79;
-    -webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	-o-transition: all 0.3s;
-	-ms-transition: all 0.3s;
-    transition: all 0.3s;
-    background: black;
-}
-.BiggerExpeditions:hover {
-    border-color: #6e2585;
-}
-.BiggerExpeditions h4 {
-    color: white;
-    padding-top: 10px;
-}
 
 /*
  * Social Media Header
@@ -1402,14 +1378,6 @@ textarea {
 	.banner-info-w3l h3 {
 		margin: 1.4em 0;
 	}
-	.BiggerExpeditions {
-		width: 160px;
-		height: 40px;
-	}
-	.BiggerExpeditions h4{
-		font-size: 1em;
-		padding-top: 6px;
-	}
 	.banner-agile {
 		    min-height: 429px;
 	}
@@ -1783,14 +1751,6 @@ textarea {
 	.banner-info-w3l h2 {
 		font-size: 1.2em;
 		letter-spacing: 2px;
-	}
-	.BiggerExpeditions {
-		width: 120px;
-		height: 30px;
-	}
-	.BiggerExpeditions h4{
-		font-size: 0.7em;
-		padding-top: 5px;
 	}
 	.filtr-item {
 		width: 100% !important;
